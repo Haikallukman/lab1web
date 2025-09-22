@@ -1,5 +1,5 @@
-**Nama : Muhammad Hafiyainul Yakin Wahid**
-**NIM : 312410164**
+**Nama : Haikal lukman N.H**
+**NIM : 312410142**
 **Kelas : TI.24.A1**
 
 **Hasil Output**
